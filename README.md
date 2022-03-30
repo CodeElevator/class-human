@@ -1,2 +1,4 @@
 # class-human
-système pour générer des humain avec les classe en python
+Système pour générer des humain avec les classe en python
+
+*Completion faite par CodeElevator/NomCustom*
